@@ -1,2 +1,7 @@
 # hello-world
-GitHub Guides
+=============
+
+Hi, everybody!
+
+with GitHub, with better life!
+                          --for developer
